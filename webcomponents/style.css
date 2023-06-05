@@ -1,0 +1,24 @@
+.square {
+    width: 200px;
+    height: 200px;
+}
+
+.rectangle {
+    width: 200px;
+    height: 100px;
+}
+
+.blue-shape {
+    background-color: rgb(50, 50, 237);
+    color: white;
+}
+
+.red-shape {
+    background-color: red;
+    color:yellowgreen;
+}
+
+my-shape>div {
+    margin: 20px;
+}
+
